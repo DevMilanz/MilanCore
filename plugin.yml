@@ -1,0 +1,7 @@
+name: MilanCore
+authors: DevMilanz
+main: DevMilanz\Core\MilanCore
+version: 1.0
+api: 4.0.0
+load: POSTWORLD
+description: MilanCore v1.0 Dibuat Untuk Server MilanNetwork
